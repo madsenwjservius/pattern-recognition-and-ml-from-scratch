@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Environnements virtuels
+venv/
+env/
+.conda/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store

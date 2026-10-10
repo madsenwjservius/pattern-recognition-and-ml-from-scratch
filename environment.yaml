@@ -1,0 +1,14 @@
+name: ml-scratch
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - seaborn
+  - jupyter
+  - pip
+  - pip:
+    - -e .

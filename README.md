@@ -1,2 +1,3 @@
 # pattern-recognition-and-ml-from-scratch
-A rigorous, code-first implementation of classical pattern recognition and machine learning algorithms built exclusively using **Python, NumPy, and Matplotlib**.
+
+This repository serves as a practical implementation companion to foundational texts in statistical machine learning, focusing on vectorization, geometric intuition, and mathematical derivations without relying on high-level black-box libraries.
